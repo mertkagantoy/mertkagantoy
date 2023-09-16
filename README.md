@@ -1,10 +1,10 @@
-[![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
+ [![MasterHead](https://www.kozmoslisesi.com/wp-content/uploads/2020/09/programlama-dilleri.jpg)
 <h1 align="center">Hi 👋, I'm Mert Kağan Toy</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mert.kagantoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert.kagantoy" height="30" width="40" /></a>
+<a href="[https://instagram.com/mert.kagantoy](https://www.instagram.com/mrtkagan.ty/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert.kagantoy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mertkagantoy44" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mertkagantoy44" height="30" width="40" /></a>
 </p>

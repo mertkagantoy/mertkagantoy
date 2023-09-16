@@ -9,7 +9,9 @@
 <!--<a href="https://www.leetcode.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mertkagantoy44" height="30" width="40" /></a>-->
 
  <!-- <a href="https://www.hackerearth.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mertkagantoy44" height="30" width="40" /></a> -->
+ 
 <a href="https://www.linkedin.com/in/mert-ka%C4%9Fan-toy-5a375b22a/" target="blank"><img align="center" src="https://www.pngwing.com/tr/free-png-blebf" alt="my-linkdn-profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

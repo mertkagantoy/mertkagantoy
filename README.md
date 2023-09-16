@@ -4,13 +4,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/mrtkagan.ty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert.kagantoy" height="30" width="40" />My Linkdn Profile</a>
+<a href="https://www.instagram.com/mrtkagan.ty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mert.kagantoy" height="30" width="40" /></a>
  
 <!--<a href="https://www.leetcode.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mertkagantoy44" height="30" width="40" /></a>-->
 
  <!-- <a href="https://www.hackerearth.com/mertkagantoy44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mertkagantoy44" height="30" width="40" /></a> -->
  
-<a href="https://www.linkedin.com/in/mert-ka%C4%9Fan-toy-5a375b22a/" target="blank"><img align="center" src="https://www.pngwing.com/tr/free-png-blebf" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mert-ka%C4%9Fan-toy-5a375b22a/" target="blank"><img align="center" src="https://www.pngwing.com/tr/free-png-blebf" alt="Linkdn" height="30" width="40" /></a>
 
 </p>
 
